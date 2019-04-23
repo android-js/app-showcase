@@ -3,6 +3,7 @@
   "package-name": "mymusic",
   "version": "1.0.0",
   "icon": "mymusic.png",
+  "description": "A simple .mp3 player .",
   "apk": "https://drive.google.com/open?id=1XOaFQ-LS2e-8o9TDF_uYlDKlrdYZLcMH",
   "link": "#http://example.com/itsMe"
 }
