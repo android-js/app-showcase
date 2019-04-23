@@ -1,7 +1,0 @@
-{
-  "name": "My Story",
-  "version": "1.0.0",
-  "icon": "my_story.png",
-  "apk": "#http://example.com",
-  "link": "#http://example.com/itsMe"
-}
