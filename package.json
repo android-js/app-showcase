@@ -1,7 +1,8 @@
 {
   "appList": [
     "story",
-    "chat"
+    "chat",
+    "youtube-dl-downloader"
   ],
   "loadApps": 3
 }
