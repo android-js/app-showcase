@@ -1,0 +1,9 @@
+{
+  "name": "youtube downloader",
+  "package-name": "youtube-dl-downloader-app",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "description": "download youtube video or audio in my android",
+  "apk": "https://drive.google.com/file/d/1edZjSB14zUmMt4va2UqWjHC-_iVrKdyi/view",
+  "link": "#http://example.com/itsMe"
+}
