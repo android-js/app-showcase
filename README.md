@@ -1,19 +1,21 @@
 # App Showcase
 
-## ? How to publish App Showcase in android-js.github.io
+## :thinking: How to publish App Showcase in android-js.github.io
 
-### 1. Fork this repositroy ??
+### 1. Fork this repositroy :fork_and_knife:
 
-### 2. Create app folder ?
+### 2. Create app folder :file_folder:
 
 ```
 folder='your application title name'
 mkdir $folder
 ```
 
-### 3. Create package.json and icon file in your app folder ??
+### 3. Create package.json and icon file in your app folder :books:
 
 Location : app-showcase/your-application/\*
+
+you have to reference and then followed this example
 
 ex) package.json
 
@@ -29,6 +31,6 @@ ex) package.json
 }
 ```
 
-### 4. Pull Request and Waiting to merge ?
+### 4. Pull Request and Waiting to merge :sunglasses:
 
 you can see the your app in android-js.github.io if successfully merged
