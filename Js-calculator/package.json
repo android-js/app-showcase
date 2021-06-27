@@ -1,0 +1,9 @@
+{
+  "name": "Js calculator",
+  "package-name": "Jscalculator",
+  "version": "1.0.0",
+  "icon": "icon.png",
+  "description": "A simple calculator app built with java script",
+  "apk": "https://drive.google.com/file/d/1-XZPeVEJEUC7lQGyZONNT9i2_NkyiG7X/view",
+  "link": "#http://example.com/itsMe"
+}
